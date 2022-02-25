@@ -1,7 +1,8 @@
 {
-  "name": "devspace-blog",
+  "name": "blog-ilhanpolat",
   "version": "0.1.0",
   "private": true,
+  "author": "Erhan Polat",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
