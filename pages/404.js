@@ -4,7 +4,7 @@ import Layout from '@/components/Layout'
 
 export default function NotFoundPage() {
   return (
-    <Layout title='Page Not Found'>
+    <Layout title='Hata!'>
       <div className='flex flex-col items-center mt-20'>
         <Image
           src='/images/logo.png'
@@ -16,7 +16,7 @@ export default function NotFoundPage() {
         <h1 className='text-6xl my-5'>Whoops!</h1>
 
         <h2 className='text-4xl text-gray-400 mb-5'>
-          This page does not exist
+          Maalesef bu sayfa mevcut değil. Dilerseniz <a className='ana-sayfa' href="/">Ana Sayfaya</a> dönebilirsiniz.
         </h2>
       </div>
     </Layout>

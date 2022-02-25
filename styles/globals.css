@@ -48,3 +48,14 @@ ol {
 .bg-red-600 {
   background-color: #a70b34;
 }
+
+
+
+
+.ana-sayfa {
+  text-decoration:underline;
+}
+
+.ana-sayfa:hover {
+  color: black;
+}
