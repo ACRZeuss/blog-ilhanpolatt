@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import Image from 'next/image'
+import { FaInstagram, FaYoutube } from "react-icons/fa";
 
 export default function Header() {
   return (
@@ -19,6 +20,16 @@ export default function Header() {
           <Link href='/about'>
             <a className='kayan-cizgi-nav mx-5 cursor-pointer uppercase hover:text-indigo-300'>
               Hakkımızda
+            </a>
+          </Link>
+          <Link href='https://instagram.com/ilhn_plt01'>
+            <a className='kayan-cizgi-nav mx-5 cursor-pointer uppercase hover:text-indigo-300'>
+              <FaInstagram />
+            </a>
+          </Link>
+          <Link href='https://www.youtube.com/channel/UCkbwGA8JDyYzZn_CByS9X7Q'>
+            <a className='kayan-cizgi-nav mx-5 cursor-pointer uppercase hover:text-indigo-300'>
+              <FaYoutube />
             </a>
           </Link>
         </nav>
