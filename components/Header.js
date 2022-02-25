@@ -7,17 +7,17 @@ export default function Header() {
       <div className='container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center'>
         <Link href='/'>
           <a className='flex md:w-1/5 title-font font-medium items-center md:justify-start mb-4 md:mb-0'>
-            <span className='ml-3 text-xl'>Blog | İlhan Polat</span>
+            <span className='kayan-cizgi-nav ml-3 text-xl'>Blog | İlhan Polat</span>
           </a>
         </Link>
         <nav className='flex flex-wrap md:w-4/5 items-center justify-end text-base md:ml-auto'>
           <Link href='/blog'>
-            <a className='mx-5 cursor-pointer uppercase hover:text-indigo-300'>
-              Blog
+            <a className='kayan-cizgi-nav mx-5 cursor-pointer uppercase hover:text-indigo-300'>
+              Kategori
             </a>
           </Link>
           <Link href='/about'>
-            <a className='mx-5 cursor-pointer uppercase hover:text-indigo-300'>
+            <a className='kayan-cizgi-nav mx-5 cursor-pointer uppercase hover:text-indigo-300'>
               Hakkımızda
             </a>
           </Link>
