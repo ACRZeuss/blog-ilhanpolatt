@@ -5,7 +5,7 @@ export default function CategoryLabel({ children }) {
     Biyografi: 'yellow',
     Teknoloji: 'blue',
     Film_Özeti: 'green',
-    Karakter_Analizleri: 'red',
+    Karakter_Analizi: 'red',
   }
 
   return (

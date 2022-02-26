@@ -12,9 +12,24 @@ export default function Header() {
           </a>
         </Link>
         <nav className='flex flex-wrap md:w-4/5 items-center justify-end text-base md:ml-auto'>
-          <Link href='/blog'>
+          <Link href='/blog/category/biyografi'>
             <a className='kayan-cizgi-nav mx-5 cursor-pointer uppercase hover:text-indigo-300'>
-              Kategori
+              Biyografi
+            </a>
+          </Link>
+          <Link href='/blog/category/karakter_analizi'>
+            <a className='kayan-cizgi-nav mx-5 cursor-pointer uppercase hover:text-indigo-300'>
+              Karakter Analizi
+            </a>
+          </Link>
+          <Link href='/blog/category/film_özeti'>
+            <a className='kayan-cizgi-nav mx-5 cursor-pointer uppercase hover:text-indigo-300'>
+              Film Özeti
+            </a>
+          </Link>
+          <Link href='/blog/category/teknoloji'>
+            <a className='kayan-cizgi-nav mx-5 cursor-pointer uppercase hover:text-indigo-300'>
+              Teknoloji
             </a>
           </Link>
           <Link href='/about'>
