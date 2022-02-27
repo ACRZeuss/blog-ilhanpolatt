@@ -2,7 +2,7 @@
 title: 'Dekalog 10. Bölüm Özeti'
 date: '25 Şubat 2022'
 excerpt: 'Dekalog dizisinin 10. bölümünün özeti'
-cover_image: '/images/posts/dekalog-1.jpg'
+cover_image: '/images/posts/dekalog.jpg'
 category: 'Film_Özeti'
 author: 'İlhan Polat'
 author_image: '/images/authors/ilhan-polat1.jpg'
