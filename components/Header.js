@@ -12,11 +12,6 @@ export default function Header() {
           </a>
         </Link>
         <nav className='flex flex-wrap md:w-4/5 items-center justify-end text-base md:ml-auto'>
-          <Link href='/blog/category/biyografi'>
-            <a className='kayan-cizgi-nav mx-5 cursor-pointer uppercase hover:text-indigo-300'>
-              Biyografi
-            </a>
-          </Link>
           <Link href='/blog/category/dizi'>
             <a className='kayan-cizgi-nav mx-5 cursor-pointer uppercase hover:text-indigo-300'>
               Dizi
