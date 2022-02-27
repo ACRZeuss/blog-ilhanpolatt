@@ -4,7 +4,7 @@ import { FaInstagram, FaYoutube } from "react-icons/fa";
 
 export default function Header() {
   return (
-    <header className='header bg-gray-900 text-gray-100 shadow w-full'>
+    <header className='bg-gray-900 text-gray-100 shadow w-full'>
       <div className='container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center'>
         <Link href='/'>
           <a className='flex md:w-1/5 title-font font-medium items-center md:justify-start mb-4 md:mb-0'>
@@ -17,14 +17,9 @@ export default function Header() {
               Biyografi
             </a>
           </Link>
-          <Link href='/blog/category/karakter_analizi'>
+          <Link href='/blog/category/dizi'>
             <a className='kayan-cizgi-nav mx-5 cursor-pointer uppercase hover:text-indigo-300'>
-              Karakter Analizi
-            </a>
-          </Link>
-          <Link href='/blog/category/film_özeti'>
-            <a className='kayan-cizgi-nav mx-5 cursor-pointer uppercase hover:text-indigo-300'>
-              Film Özeti
+              Dizi
             </a>
           </Link>
           <Link href='/blog/category/teknoloji'>

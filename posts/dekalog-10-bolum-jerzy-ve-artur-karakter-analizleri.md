@@ -1,9 +1,9 @@
 ---
 title: 'Dekalog 10. Bölüm, Jerzy ve Artur Karakter Analizleri'
 date: '25 Şubat 2022'
-excerpt: 'Dekalog dizisinin 10. bölümününden karakter analizleri'
+excerpt: 'Dekalog dizisinin 10. bölümünden karakter analizleri'
 cover_image: '/images/posts/dekalog.jpg'
-category: 'Karakter_Analizi'
+category: 'Dizi'
 author: 'İlhan Polat'
 author_image: '/images/authors/ilhan-polat1.jpg'
 ---

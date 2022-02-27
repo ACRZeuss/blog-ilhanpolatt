@@ -4,8 +4,8 @@ export default function CategoryLabel({ children }) {
   const colorKey = {
     Biyografi: 'yellow',
     Teknoloji: 'blue',
-    Film_Özeti: 'green',
-    Karakter_Analizi: 'red',
+    Dizi: 'green',
+    Film: 'red',
   }
 
   return (

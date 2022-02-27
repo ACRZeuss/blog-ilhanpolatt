@@ -77,10 +77,6 @@ ol {
   transition: width 0.25s ease-out;
 }
 
-.darkmode--activated .kayan-cizgi::before {
-  background-color: yellow;
-}
-
 .kayan-cizgi:hover::before {
   width: 100%;
 }
@@ -95,15 +91,7 @@ ol {
   position: relative;
 }
 
-.darkmode--activated .header {
-  isolation: isolate;
-}
-
 .kayan-cizgi-nav:hover {
-  color: white;
-}
-
-.darkmode--activated .kayan-cizgi {
   color: white;
 }
 
