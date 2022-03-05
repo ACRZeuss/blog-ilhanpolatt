@@ -1,5 +1,5 @@
 ---
-title: 'Dekalog 10. Bölüm Özeti'
+title: 'Dekalog Dizisi 10. Bölüm Özeti'
 date: '25 Şubat 2022'
 excerpt: 'Dekalog dizisinin 10. bölümünün özeti'
 cover_image: '/images/posts/dekalog.jpg'
