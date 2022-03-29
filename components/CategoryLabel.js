@@ -6,6 +6,7 @@ export default function CategoryLabel({ children }) {
     Teknoloji: 'blue',
     Dizi: 'green',
     Film: 'red',
+    Kitap: 'pink',
   }
 
   return (
