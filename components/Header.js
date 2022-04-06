@@ -22,6 +22,11 @@ export default function Header() {
               Teknoloji
             </a>
           </Link>
+          <Link href='https://authors.ilhanpolat.tk/'>
+            <a className='kayan-cizgi-nav mx-5 cursor-pointer uppercase hover:text-indigo-300'>
+              Yazarlar
+            </a>
+          </Link>
           <Link href='https://photos.ilhanpolat.tk/'>
             <a className='kayan-cizgi-nav mx-5 cursor-pointer uppercase hover:text-indigo-300'>
               Çektiğim Fotoğraflar
