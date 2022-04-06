@@ -4,7 +4,7 @@ date: '25 Şubat 2022'
 excerpt: 'Dekalog dizisinin 10. bölümünün özeti'
 cover_image: '/images/posts/dekalog.jpg'
 category: 'Dizi'
-author: 'Ilhan Polat'
+author: 'İlhan Polat'
 author_url: "ilhan-polat"
 author_image: '/images/authors/ilhan-polat1.jpg'
 ---
