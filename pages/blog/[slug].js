@@ -7,7 +7,7 @@ import Layout from '@/components/Layout'
 import CategoryLabel from '@/components/CategoryLabel'
 
 export default function PostPage({
-  frontmatter: { title, category, date, cover_image, author, author_image },
+  frontmatter: { title, category, date, cover_image, author, author_url, author_image },
   content,
   slug,
 }) {
@@ -28,7 +28,7 @@ export default function PostPage({
               alt=''
               className='mx-4 w-10 h-10 object-cover rounded-full hidden sm:block'
             />
-            <h4>{author}</h4>
+            <Link href={`https://authors.ilhanpolat.tk/${author_url}`}>{author}</Link>
           </div>
           <div className='mr-4'>{date}</div>
         </div>
