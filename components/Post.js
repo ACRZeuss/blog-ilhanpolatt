@@ -42,7 +42,9 @@ export default function Post({ post, compact }) {
               className='mx-4 w-10 h-10 object-cover rounded-full hidden sm:block'
             />
             <h3 className='text-gray-700 font-bold'>
-              {post.frontmatter.author}
+              <Link href={`https://authors.ilhanpolat.tk/${post.frontmatter.author_url}`}>
+                {post.frontmatter.author}
+              </Link>
             </h3>
           </div>
         </div>

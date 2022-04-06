@@ -5,6 +5,7 @@ excerpt: "TOGG, CES 2022'de dünya sahnesine çıktı. Bizim de ilk kez görme �
 cover_image: '/images/posts/togg.jpg'
 category: 'Teknoloji'
 author: 'Erhan Polat'
+author_url: "erhan-polat"
 author_image: '/images/authors/avatar.png'
 ---
 
